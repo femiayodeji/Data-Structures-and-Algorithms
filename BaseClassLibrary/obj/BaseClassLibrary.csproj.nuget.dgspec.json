@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\workspace\\c#\\Data-Structures-and-Algorithms\\BaseClasslibrary\\BaseClassLibrary.csproj": {}
+    "C:\\workspace\\c#\\Data-Structures-and-Algorithms\\BaseClassLibrary\\BaseClassLibrary.csproj": {}
   },
   "projects": {
-    "C:\\workspace\\c#\\Data-Structures-and-Algorithms\\BaseClasslibrary\\BaseClassLibrary.csproj": {
+    "C:\\workspace\\c#\\Data-Structures-and-Algorithms\\BaseClassLibrary\\BaseClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\workspace\\c#\\Data-Structures-and-Algorithms\\BaseClasslibrary\\BaseClassLibrary.csproj",
+        "projectUniqueName": "C:\\workspace\\c#\\Data-Structures-and-Algorithms\\BaseClassLibrary\\BaseClassLibrary.csproj",
         "projectName": "BaseClassLibrary",
-        "projectPath": "C:\\workspace\\c#\\Data-Structures-and-Algorithms\\BaseClasslibrary\\BaseClassLibrary.csproj",
+        "projectPath": "C:\\workspace\\c#\\Data-Structures-and-Algorithms\\BaseClassLibrary\\BaseClassLibrary.csproj",
         "packagesPath": "C:\\Users\\feminstincts\\.nuget\\packages\\",
-        "outputPath": "C:\\workspace\\c#\\Data-Structures-and-Algorithms\\BaseClasslibrary\\obj\\",
+        "outputPath": "C:\\workspace\\c#\\Data-Structures-and-Algorithms\\BaseClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
