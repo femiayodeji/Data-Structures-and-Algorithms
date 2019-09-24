@@ -1,0 +1,11 @@
+C:\workspace\c#\Data-Structures-and-Algorithms\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.deps.json
+C:\workspace\c#\Data-Structures-and-Algorithms\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.runtimeconfig.json
+C:\workspace\c#\Data-Structures-and-Algorithms\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.runtimeconfig.dev.json
+C:\workspace\c#\Data-Structures-and-Algorithms\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.dll
+C:\workspace\c#\Data-Structures-and-Algorithms\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.pdb
+C:\workspace\c#\Data-Structures-and-Algorithms\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.csprojAssemblyReference.cache
+C:\workspace\c#\Data-Structures-and-Algorithms\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.csproj.CoreCompileInputs.cache
+C:\workspace\c#\Data-Structures-and-Algorithms\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.AssemblyInfoInputs.cache
+C:\workspace\c#\Data-Structures-and-Algorithms\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.AssemblyInfo.cs
+C:\workspace\c#\Data-Structures-and-Algorithms\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.dll
+C:\workspace\c#\Data-Structures-and-Algorithms\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.pdb
