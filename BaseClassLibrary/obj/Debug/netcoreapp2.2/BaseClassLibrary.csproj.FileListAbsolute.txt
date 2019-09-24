@@ -1,0 +1,11 @@
+C:\workspace\c#\Data-Structures-and-Algorithms\BaseClasslibrary\bin\Debug\netcoreapp2.2\BaseClassLibrary.deps.json
+C:\workspace\c#\Data-Structures-and-Algorithms\BaseClasslibrary\bin\Debug\netcoreapp2.2\BaseClassLibrary.runtimeconfig.json
+C:\workspace\c#\Data-Structures-and-Algorithms\BaseClasslibrary\bin\Debug\netcoreapp2.2\BaseClassLibrary.runtimeconfig.dev.json
+C:\workspace\c#\Data-Structures-and-Algorithms\BaseClasslibrary\bin\Debug\netcoreapp2.2\BaseClassLibrary.dll
+C:\workspace\c#\Data-Structures-and-Algorithms\BaseClasslibrary\bin\Debug\netcoreapp2.2\BaseClassLibrary.pdb
+C:\workspace\c#\Data-Structures-and-Algorithms\BaseClasslibrary\obj\Debug\netcoreapp2.2\BaseClassLibrary.csprojAssemblyReference.cache
+C:\workspace\c#\Data-Structures-and-Algorithms\BaseClasslibrary\obj\Debug\netcoreapp2.2\BaseClassLibrary.csproj.CoreCompileInputs.cache
+C:\workspace\c#\Data-Structures-and-Algorithms\BaseClasslibrary\obj\Debug\netcoreapp2.2\BaseClassLibrary.AssemblyInfoInputs.cache
+C:\workspace\c#\Data-Structures-and-Algorithms\BaseClasslibrary\obj\Debug\netcoreapp2.2\BaseClassLibrary.AssemblyInfo.cs
+C:\workspace\c#\Data-Structures-and-Algorithms\BaseClasslibrary\obj\Debug\netcoreapp2.2\BaseClassLibrary.dll
+C:\workspace\c#\Data-Structures-and-Algorithms\BaseClasslibrary\obj\Debug\netcoreapp2.2\BaseClassLibrary.pdb
