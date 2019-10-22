@@ -1,0 +1,11 @@
+C:\workspace\c#\Data-Structures-and-Algorithms\SearchingAlgorithms\obj\Debug\netcoreapp2.2\SearchingAlgorithms.csprojAssemblyReference.cache
+C:\workspace\c#\Data-Structures-and-Algorithms\SearchingAlgorithms\obj\Debug\netcoreapp2.2\SearchingAlgorithms.csproj.CoreCompileInputs.cache
+C:\workspace\c#\Data-Structures-and-Algorithms\SearchingAlgorithms\obj\Debug\netcoreapp2.2\SearchingAlgorithms.AssemblyInfoInputs.cache
+C:\workspace\c#\Data-Structures-and-Algorithms\SearchingAlgorithms\obj\Debug\netcoreapp2.2\SearchingAlgorithms.AssemblyInfo.cs
+C:\workspace\c#\Data-Structures-and-Algorithms\SearchingAlgorithms\bin\Debug\netcoreapp2.2\SearchingAlgorithms.deps.json
+C:\workspace\c#\Data-Structures-and-Algorithms\SearchingAlgorithms\bin\Debug\netcoreapp2.2\SearchingAlgorithms.runtimeconfig.json
+C:\workspace\c#\Data-Structures-and-Algorithms\SearchingAlgorithms\bin\Debug\netcoreapp2.2\SearchingAlgorithms.runtimeconfig.dev.json
+C:\workspace\c#\Data-Structures-and-Algorithms\SearchingAlgorithms\bin\Debug\netcoreapp2.2\SearchingAlgorithms.dll
+C:\workspace\c#\Data-Structures-and-Algorithms\SearchingAlgorithms\bin\Debug\netcoreapp2.2\SearchingAlgorithms.pdb
+C:\workspace\c#\Data-Structures-and-Algorithms\SearchingAlgorithms\obj\Debug\netcoreapp2.2\SearchingAlgorithms.dll
+C:\workspace\c#\Data-Structures-and-Algorithms\SearchingAlgorithms\obj\Debug\netcoreapp2.2\SearchingAlgorithms.pdb
