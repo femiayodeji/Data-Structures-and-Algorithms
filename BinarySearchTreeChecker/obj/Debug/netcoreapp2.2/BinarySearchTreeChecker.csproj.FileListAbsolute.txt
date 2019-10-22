@@ -1,0 +1,11 @@
+C:\workspace\c#\Data-Structures-and-Algorithms\BinarySearchTreeChecker\obj\Debug\netcoreapp2.2\BinarySearchTreeChecker.csprojAssemblyReference.cache
+C:\workspace\c#\Data-Structures-and-Algorithms\BinarySearchTreeChecker\obj\Debug\netcoreapp2.2\BinarySearchTreeChecker.csproj.CoreCompileInputs.cache
+C:\workspace\c#\Data-Structures-and-Algorithms\BinarySearchTreeChecker\obj\Debug\netcoreapp2.2\BinarySearchTreeChecker.AssemblyInfoInputs.cache
+C:\workspace\c#\Data-Structures-and-Algorithms\BinarySearchTreeChecker\obj\Debug\netcoreapp2.2\BinarySearchTreeChecker.AssemblyInfo.cs
+C:\workspace\c#\Data-Structures-and-Algorithms\BinarySearchTreeChecker\bin\Debug\netcoreapp2.2\BinarySearchTreeChecker.deps.json
+C:\workspace\c#\Data-Structures-and-Algorithms\BinarySearchTreeChecker\bin\Debug\netcoreapp2.2\BinarySearchTreeChecker.runtimeconfig.json
+C:\workspace\c#\Data-Structures-and-Algorithms\BinarySearchTreeChecker\bin\Debug\netcoreapp2.2\BinarySearchTreeChecker.runtimeconfig.dev.json
+C:\workspace\c#\Data-Structures-and-Algorithms\BinarySearchTreeChecker\bin\Debug\netcoreapp2.2\BinarySearchTreeChecker.dll
+C:\workspace\c#\Data-Structures-and-Algorithms\BinarySearchTreeChecker\bin\Debug\netcoreapp2.2\BinarySearchTreeChecker.pdb
+C:\workspace\c#\Data-Structures-and-Algorithms\BinarySearchTreeChecker\obj\Debug\netcoreapp2.2\BinarySearchTreeChecker.dll
+C:\workspace\c#\Data-Structures-and-Algorithms\BinarySearchTreeChecker\obj\Debug\netcoreapp2.2\BinarySearchTreeChecker.pdb
