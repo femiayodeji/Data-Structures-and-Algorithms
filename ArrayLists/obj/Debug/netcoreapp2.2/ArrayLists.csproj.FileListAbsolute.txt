@@ -1,0 +1,11 @@
+C:\workspace\c#\Data-Structures-and-Algorithms\ArrayLists\obj\Debug\netcoreapp2.2\ArrayLists.csprojAssemblyReference.cache
+C:\workspace\c#\Data-Structures-and-Algorithms\ArrayLists\obj\Debug\netcoreapp2.2\ArrayLists.csproj.CoreCompileInputs.cache
+C:\workspace\c#\Data-Structures-and-Algorithms\ArrayLists\obj\Debug\netcoreapp2.2\ArrayLists.AssemblyInfoInputs.cache
+C:\workspace\c#\Data-Structures-and-Algorithms\ArrayLists\obj\Debug\netcoreapp2.2\ArrayLists.AssemblyInfo.cs
+C:\workspace\c#\Data-Structures-and-Algorithms\ArrayLists\bin\Debug\netcoreapp2.2\ArrayLists.deps.json
+C:\workspace\c#\Data-Structures-and-Algorithms\ArrayLists\bin\Debug\netcoreapp2.2\ArrayLists.runtimeconfig.json
+C:\workspace\c#\Data-Structures-and-Algorithms\ArrayLists\bin\Debug\netcoreapp2.2\ArrayLists.runtimeconfig.dev.json
+C:\workspace\c#\Data-Structures-and-Algorithms\ArrayLists\bin\Debug\netcoreapp2.2\ArrayLists.dll
+C:\workspace\c#\Data-Structures-and-Algorithms\ArrayLists\bin\Debug\netcoreapp2.2\ArrayLists.pdb
+C:\workspace\c#\Data-Structures-and-Algorithms\ArrayLists\obj\Debug\netcoreapp2.2\ArrayLists.dll
+C:\workspace\c#\Data-Structures-and-Algorithms\ArrayLists\obj\Debug\netcoreapp2.2\ArrayLists.pdb
