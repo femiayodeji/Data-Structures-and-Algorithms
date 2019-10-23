@@ -1,0 +1,11 @@
+C:\workspace\c#\Data-Structures-and-Algorithms\Sorting\obj\Debug\netcoreapp2.2\Sorting.csprojAssemblyReference.cache
+C:\workspace\c#\Data-Structures-and-Algorithms\Sorting\obj\Debug\netcoreapp2.2\Sorting.csproj.CoreCompileInputs.cache
+C:\workspace\c#\Data-Structures-and-Algorithms\Sorting\obj\Debug\netcoreapp2.2\Sorting.AssemblyInfoInputs.cache
+C:\workspace\c#\Data-Structures-and-Algorithms\Sorting\obj\Debug\netcoreapp2.2\Sorting.AssemblyInfo.cs
+C:\workspace\c#\Data-Structures-and-Algorithms\Sorting\bin\Debug\netcoreapp2.2\Sorting.deps.json
+C:\workspace\c#\Data-Structures-and-Algorithms\Sorting\bin\Debug\netcoreapp2.2\Sorting.runtimeconfig.json
+C:\workspace\c#\Data-Structures-and-Algorithms\Sorting\bin\Debug\netcoreapp2.2\Sorting.runtimeconfig.dev.json
+C:\workspace\c#\Data-Structures-and-Algorithms\Sorting\bin\Debug\netcoreapp2.2\Sorting.dll
+C:\workspace\c#\Data-Structures-and-Algorithms\Sorting\bin\Debug\netcoreapp2.2\Sorting.pdb
+C:\workspace\c#\Data-Structures-and-Algorithms\Sorting\obj\Debug\netcoreapp2.2\Sorting.dll
+C:\workspace\c#\Data-Structures-and-Algorithms\Sorting\obj\Debug\netcoreapp2.2\Sorting.pdb
