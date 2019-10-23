@@ -7,7 +7,7 @@ namespace Sorting
         static void Main(string[] args)
         {
             Console.WriteLine("SORTING ALGORITHMS");
-            int[] array = new int[10] { 100, 50, 20, 40, 10, 60, 80, 70, 90, 30 };
+            int[] array = new int[10] { 100, 90, 80, 70, 60, 50, 40, 30, 20, 10 };
             DateTime start;
             Console.WriteLine("The real array: [{0}]\n", string.Join(", ",array));
 
@@ -22,6 +22,12 @@ namespace Sorting
             Array.Copy(array,test2,array.Length);
             start = DateTime.Now;
             Console.WriteLine("Selection sort: [{0}] in {1}s", string.Join(", ", Selection.Sort(test2)), (DateTime.Now - start).TotalSeconds);
+
+            //merge
+            int[] test3 = new int[array.Length];
+            Array.Copy(array,test3,array.Length);
+            start = DateTime.Now;
+            Console.WriteLine("Merge sort: [{0}] in {1}s", string.Join(", ", Merge.Sort(test3)), (DateTime.Now - start).TotalSeconds);
 
             Console.WriteLine("\nThe real array: [{0}]", string.Join(", ",array));
         }
