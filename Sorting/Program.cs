@@ -23,11 +23,17 @@ namespace Sorting
             start = DateTime.Now;
             Console.WriteLine("Selection sort: [{0}] in {1}s", string.Join(", ", Selection.Sort(test2)), (DateTime.Now - start).TotalSeconds);
 
-            //merge
+            //insetrtion
             int[] test3 = new int[array.Length];
             Array.Copy(array,test3,array.Length);
             start = DateTime.Now;
-            Console.WriteLine("Merge sort: [{0}] in {1}s", string.Join(", ", Merge.Sort(test3)), (DateTime.Now - start).TotalSeconds);
+            Console.WriteLine("Insertion sort: [{0}] in {1}s", string.Join(", ", Insertion.Sort(test3)), (DateTime.Now - start).TotalSeconds);
+
+            //merge
+            int[] test4 = new int[array.Length];
+            Array.Copy(array,test4,array.Length);
+            start = DateTime.Now;
+            Console.WriteLine("Merge sort: [{0}] in {1}s", string.Join(", ", Merge.Sort(test4)), (DateTime.Now - start).TotalSeconds);
 
             Console.WriteLine("\nThe real array: [{0}]", string.Join(", ",array));
         }
