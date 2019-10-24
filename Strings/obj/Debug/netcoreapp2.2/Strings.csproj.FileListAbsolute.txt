@@ -1,0 +1,11 @@
+C:\workspace\c#\Data-Structures-and-Algorithms\Strings\bin\Debug\netcoreapp2.2\Strings.deps.json
+C:\workspace\c#\Data-Structures-and-Algorithms\Strings\bin\Debug\netcoreapp2.2\Strings.runtimeconfig.json
+C:\workspace\c#\Data-Structures-and-Algorithms\Strings\bin\Debug\netcoreapp2.2\Strings.runtimeconfig.dev.json
+C:\workspace\c#\Data-Structures-and-Algorithms\Strings\bin\Debug\netcoreapp2.2\Strings.dll
+C:\workspace\c#\Data-Structures-and-Algorithms\Strings\bin\Debug\netcoreapp2.2\Strings.pdb
+C:\workspace\c#\Data-Structures-and-Algorithms\Strings\obj\Debug\netcoreapp2.2\Strings.csprojAssemblyReference.cache
+C:\workspace\c#\Data-Structures-and-Algorithms\Strings\obj\Debug\netcoreapp2.2\Strings.csproj.CoreCompileInputs.cache
+C:\workspace\c#\Data-Structures-and-Algorithms\Strings\obj\Debug\netcoreapp2.2\Strings.AssemblyInfoInputs.cache
+C:\workspace\c#\Data-Structures-and-Algorithms\Strings\obj\Debug\netcoreapp2.2\Strings.AssemblyInfo.cs
+C:\workspace\c#\Data-Structures-and-Algorithms\Strings\obj\Debug\netcoreapp2.2\Strings.dll
+C:\workspace\c#\Data-Structures-and-Algorithms\Strings\obj\Debug\netcoreapp2.2\Strings.pdb
