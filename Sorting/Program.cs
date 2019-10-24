@@ -7,7 +7,7 @@ namespace Sorting
         static void Main(string[] args)
         {
             Console.WriteLine("SORTING ALGORITHMS");
-            int[] array = new int[10] { 100, 90, 80, 70, 60, 50, 40, 30, 20, 10 };
+            int[] array = new int[10] { 100, 50, 20, 40, 10, 60, 80, 70, 90, 30 };
             DateTime start;
             Console.WriteLine("The real array: [{0}]\n", string.Join(", ",array));
 
