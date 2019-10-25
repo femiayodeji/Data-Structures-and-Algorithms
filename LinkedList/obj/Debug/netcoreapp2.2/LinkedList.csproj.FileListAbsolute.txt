@@ -1,0 +1,11 @@
+C:\workspace\c#\Data-Structures-and-Algorithms\LinkedList\obj\Debug\netcoreapp2.2\LinkedList.csprojAssemblyReference.cache
+C:\workspace\c#\Data-Structures-and-Algorithms\LinkedList\obj\Debug\netcoreapp2.2\LinkedList.csproj.CoreCompileInputs.cache
+C:\workspace\c#\Data-Structures-and-Algorithms\LinkedList\obj\Debug\netcoreapp2.2\LinkedList.AssemblyInfoInputs.cache
+C:\workspace\c#\Data-Structures-and-Algorithms\LinkedList\obj\Debug\netcoreapp2.2\LinkedList.AssemblyInfo.cs
+C:\workspace\c#\Data-Structures-and-Algorithms\LinkedList\bin\Debug\netcoreapp2.2\LinkedList.deps.json
+C:\workspace\c#\Data-Structures-and-Algorithms\LinkedList\bin\Debug\netcoreapp2.2\LinkedList.runtimeconfig.json
+C:\workspace\c#\Data-Structures-and-Algorithms\LinkedList\bin\Debug\netcoreapp2.2\LinkedList.runtimeconfig.dev.json
+C:\workspace\c#\Data-Structures-and-Algorithms\LinkedList\bin\Debug\netcoreapp2.2\LinkedList.dll
+C:\workspace\c#\Data-Structures-and-Algorithms\LinkedList\bin\Debug\netcoreapp2.2\LinkedList.pdb
+C:\workspace\c#\Data-Structures-and-Algorithms\LinkedList\obj\Debug\netcoreapp2.2\LinkedList.dll
+C:\workspace\c#\Data-Structures-and-Algorithms\LinkedList\obj\Debug\netcoreapp2.2\LinkedList.pdb
