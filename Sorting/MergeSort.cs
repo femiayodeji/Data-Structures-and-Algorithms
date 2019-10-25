@@ -1,24 +1,24 @@
 public static class Merge{
     public static int[] Sort(this int[] array){
-        mergeSort(array,0,array.Length - 1);
+        MergeSort(array,0,array.Length - 1);
         return array;
     }
 
-    static void mergeSort(int[] array, int left, int right){
+    static void MergeSort(int[] array, int left, int right){
         if(left < right){
             //find the middle point
             int middle = (left + right)/2;
 
             //sort the first and second halves
-            mergeSort(array,left,middle);
-            mergeSort(array,middle + 1, right);
+            MergeSort(array,left,middle);
+            MergeSort(array,middle + 1, right);
 
             //merge the sorted halves
-            merge(array,left,middle,right);
+            MergeHalves(array,left,middle,right);
         }
     }
 
-    static void merge(int[] array, int left, int middle, int right){
+    static void MergeHalves(int[] array, int left, int middle, int right){
         //find the sizes of the two subarrays to be merged
         int n = middle - left + 1;
         int m = right - middle;
