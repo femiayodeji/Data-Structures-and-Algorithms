@@ -1,0 +1,11 @@
+C:\workspace\c#\Data-Structures-and-Algorithms\Queue\obj\Debug\netcoreapp2.2\Queue.csprojAssemblyReference.cache
+C:\workspace\c#\Data-Structures-and-Algorithms\Queue\obj\Debug\netcoreapp2.2\Queue.csproj.CoreCompileInputs.cache
+C:\workspace\c#\Data-Structures-and-Algorithms\Queue\obj\Debug\netcoreapp2.2\Queue.AssemblyInfoInputs.cache
+C:\workspace\c#\Data-Structures-and-Algorithms\Queue\obj\Debug\netcoreapp2.2\Queue.AssemblyInfo.cs
+C:\workspace\c#\Data-Structures-and-Algorithms\Queue\bin\Debug\netcoreapp2.2\Queue.deps.json
+C:\workspace\c#\Data-Structures-and-Algorithms\Queue\bin\Debug\netcoreapp2.2\Queue.runtimeconfig.json
+C:\workspace\c#\Data-Structures-and-Algorithms\Queue\bin\Debug\netcoreapp2.2\Queue.runtimeconfig.dev.json
+C:\workspace\c#\Data-Structures-and-Algorithms\Queue\bin\Debug\netcoreapp2.2\Queue.dll
+C:\workspace\c#\Data-Structures-and-Algorithms\Queue\bin\Debug\netcoreapp2.2\Queue.pdb
+C:\workspace\c#\Data-Structures-and-Algorithms\Queue\obj\Debug\netcoreapp2.2\Queue.dll
+C:\workspace\c#\Data-Structures-and-Algorithms\Queue\obj\Debug\netcoreapp2.2\Queue.pdb
