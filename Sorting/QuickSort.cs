@@ -1,36 +1,43 @@
 public static class Quick{
     public static int[] Sort(this int[] array){
-        quickSort(array,0,array.Length - 1);
+        QuickSort(array,0,array.Length - 1);
         return array;
     }
 
-    static void quickSort(int[] array, int low, int high){
-        if(low <high){
+    static void QuickSort(int[] array, int left, int right){
+        if(left <right){
+            //using the median as pivot
+            int pivot = array[(left+right)/2];
             //partition index
-            int pi = partition(array,low,high);
-            
+            int partition = Partition(array,left,right,pivot);            
             //sort elements before and after partition
-            quickSort(array,low,high-1);
-            quickSort(array,pi + 1,high);            
+            QuickSort(array,left,partition-1);
+            QuickSort(array,partition,right);            
         }
     }
 
-    static int partition(int[] array, int low,int high){
-        int pivot = array[high];
-        int i = low - 1; //index of the smallest element
-
-        int temp;
-        for(int j = low; j <= high - 1; j++){
-            if(array[j] < pivot){
-                i++;
-                temp = array[i];
-                array[i] = array[j];
-                array[j] = temp;
+    static int Partition(int[] array, int leftStart,int rightEnd, int pivot){
+        int left = leftStart;
+        int right = rightEnd;
+        
+        while(left <= right){
+            //left must be less than pivot
+            while(array[left] < pivot){
+                left++;
+            }
+            //right must be greater than pivot
+            while(array[right] > pivot){
+                right--;
+            }
+            if(left <= right){
+                //swap
+                int temp = array[left];
+                array[left] = array[right];
+                array[right] = temp;
+                left++; //moving forward
+                right--; //moving backward
             }
         }
-        temp = array[i + 1];
-        array[i + 1] = array[high];
-        array[high] = temp;
-        return (i + 1);
+        return left;
     }
 }
