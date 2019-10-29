@@ -15,7 +15,7 @@ namespace Tree
             tree.Add(6);
             tree.Add(3);
 
-            //transversal
+            //traversal
                 //Depth first            
                 Console.WriteLine("Preorder");
                 tree.Preorder(tree.Root,0);
@@ -23,6 +23,17 @@ namespace Tree
                 tree.Postorder(tree.Root,0);
                 Console.WriteLine("Inorder");
                 tree.Inorder(tree.Root,0);
+
+                //Breadth first
+                Console.WriteLine("Using given level");
+                DateTime startTime = DateTime.Now;
+                tree.LevelOrder(tree.Root);
+                Console.Write($" in {(DateTime.Now - startTime).TotalSeconds}s\n");
+
+                Console.WriteLine("Using queue");
+                startTime = DateTime.Now;
+                tree.LevelOrderWithQueue(tree.Root);
+                Console.Write($" in {(DateTime.Now - startTime).TotalSeconds}s\n");
         }
     }
 }

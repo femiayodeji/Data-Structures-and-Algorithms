@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 
 public class Node{
     public int Value {get;set;}
@@ -69,5 +70,48 @@ public class BinaryTree {
         String separator = new String('_',level);
         Console.WriteLine($"{separator}{node.Value}");
         Inorder(node.Right,level + 1);
+    }
+
+    public void LevelOrder(Node tree){
+        int height = Height(tree);
+        for(int i = 1; i <= height; i++){
+            String separator = new String('_', height-i);
+            Console.Write(separator);
+            GivenLevel(tree,i);
+            Console.Write("\n");
+        }
+    }
+    public int Height(Node root){
+        if(root == null) return 0;
+        int lHeight = Height(root.Left);
+        int rHeight = Height(root.Right);
+        if(lHeight > rHeight){
+            return lHeight + 1;
+        }
+        else{
+            return rHeight + 1;
+        }
+    }
+
+    public void GivenLevel(Node node, int level){
+        if(node == null) return;
+        if(level == 1){
+            Console.Write(node.Value + " ");
+        }
+        else if(level > 1){
+            GivenLevel(node.Left, level - 1);
+            GivenLevel(node.Right, level - 1);
+        }
+    }
+
+    public void LevelOrderWithQueue(Node tree){
+        Queue<Node> queue = new Queue<Node>();
+        queue.Enqueue(tree);
+        while(queue.Count != 0){
+            Node tempNode = queue.Dequeue();
+            Console.Write(tempNode.Value + " ");
+            if(tempNode.Left != null) queue.Enqueue(tempNode.Left);
+            if(tempNode.Right != null) queue.Enqueue(tempNode.Right);
+        }
     }
 }
