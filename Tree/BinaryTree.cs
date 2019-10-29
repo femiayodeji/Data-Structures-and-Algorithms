@@ -114,4 +114,11 @@ public class BinaryTree {
             if(tempNode.Right != null) queue.Enqueue(tempNode.Right);
         }
     }
+
+    public Node Search(Node tree, int value){
+        if(tree == null) return null;
+        if(tree.Value == value) return tree;
+        if(tree.Value > value) return Search(tree.Left,value);
+        return Search(tree.Right,value);
+    }
 }

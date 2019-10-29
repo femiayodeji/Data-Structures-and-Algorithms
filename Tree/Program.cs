@@ -17,23 +17,30 @@ namespace Tree
 
             //traversal
                 //Depth first            
-                Console.WriteLine("Preorder");
+                Console.WriteLine("\nPreorder");
                 tree.Preorder(tree.Root,0);
-                Console.WriteLine("Postorder");
+                Console.WriteLine("\nPostorder");
                 tree.Postorder(tree.Root,0);
-                Console.WriteLine("Inorder");
+                Console.WriteLine("\nInorder");
                 tree.Inorder(tree.Root,0);
 
                 //Breadth first
-                Console.WriteLine("Using given level");
+                Console.WriteLine("\nUsing given level");
                 DateTime startTime = DateTime.Now;
                 tree.LevelOrder(tree.Root);
                 Console.Write($" in {(DateTime.Now - startTime).TotalSeconds}s\n");
 
-                Console.WriteLine("Using queue");
+                Console.WriteLine("\nUsing queue");
                 startTime = DateTime.Now;
                 tree.LevelOrderWithQueue(tree.Root);
                 Console.Write($" in {(DateTime.Now - startTime).TotalSeconds}s\n");
+
+            //Search
+            Console.WriteLine("\nSearching (Preorder)");
+            string result = tree.Search(tree.Root, 6) != null ? "Found" : "Not found";
+            Console.WriteLine($"Search for 6: {result}");
+            result = tree.Search(tree.Root, 9) != null ? "Found" : "Not found";
+            Console.WriteLine($"Search for 9: {result}");
         }
     }
 }
