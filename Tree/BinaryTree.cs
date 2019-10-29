@@ -52,4 +52,22 @@ public class BinaryTree {
         Preorder(node.Left, level + 1);
         Preorder(node.Right, level + 1);
     }
+
+    public void Postorder(Node node, int level){
+        //left-right-root
+        if(node == null) return;
+        Postorder(node.Left,level + 1);
+        Postorder(node.Right,level + 1);        
+        String separator = new String('_',level);
+        Console.WriteLine($"{separator}{node.Value}");
+    }
+
+    public void Inorder(Node node, int level){
+        //left-root-right
+        if(node == null) return;
+        Inorder(node.Left,level + 1);
+        String separator = new String('_',level);
+        Console.WriteLine($"{separator}{node.Value}");
+        Inorder(node.Right,level + 1);
+    }
 }

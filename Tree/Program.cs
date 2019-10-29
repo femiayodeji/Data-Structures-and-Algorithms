@@ -14,7 +14,15 @@ namespace Tree
             tree.Add(1);
             tree.Add(6);
             tree.Add(3);
-            tree.Preorder(tree.Root,0);
+
+            //transversal
+                //Depth first            
+                Console.WriteLine("Preorder");
+                tree.Preorder(tree.Root,0);
+                Console.WriteLine("Postorder");
+                tree.Postorder(tree.Root,0);
+                Console.WriteLine("Inorder");
+                tree.Inorder(tree.Root,0);
         }
     }
 }
