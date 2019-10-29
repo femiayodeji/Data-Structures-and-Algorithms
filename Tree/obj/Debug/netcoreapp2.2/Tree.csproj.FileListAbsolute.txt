@@ -1,0 +1,11 @@
+C:\workspace\c#\Data-Structures-and-Algorithms\Tree\obj\Debug\netcoreapp2.2\Tree.csprojAssemblyReference.cache
+C:\workspace\c#\Data-Structures-and-Algorithms\Tree\obj\Debug\netcoreapp2.2\Tree.csproj.CoreCompileInputs.cache
+C:\workspace\c#\Data-Structures-and-Algorithms\Tree\obj\Debug\netcoreapp2.2\Tree.AssemblyInfoInputs.cache
+C:\workspace\c#\Data-Structures-and-Algorithms\Tree\obj\Debug\netcoreapp2.2\Tree.AssemblyInfo.cs
+C:\workspace\c#\Data-Structures-and-Algorithms\Tree\bin\Debug\netcoreapp2.2\Tree.deps.json
+C:\workspace\c#\Data-Structures-and-Algorithms\Tree\bin\Debug\netcoreapp2.2\Tree.runtimeconfig.json
+C:\workspace\c#\Data-Structures-and-Algorithms\Tree\bin\Debug\netcoreapp2.2\Tree.runtimeconfig.dev.json
+C:\workspace\c#\Data-Structures-and-Algorithms\Tree\bin\Debug\netcoreapp2.2\Tree.dll
+C:\workspace\c#\Data-Structures-and-Algorithms\Tree\bin\Debug\netcoreapp2.2\Tree.pdb
+C:\workspace\c#\Data-Structures-and-Algorithms\Tree\obj\Debug\netcoreapp2.2\Tree.dll
+C:\workspace\c#\Data-Structures-and-Algorithms\Tree\obj\Debug\netcoreapp2.2\Tree.pdb
